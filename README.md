@@ -16,23 +16,23 @@ El conjunto es el inventario de equinos, asnos, mulos, búfalos, ovinos y caprin
 ## Figuras principales
 **Figura 1. Distribución del inventario de ovinos.** La mediana es 1137 animales y la distribución tiene una cola larga hacia valores altos.
 
-<img src="Figuras/figura1_distribucion_ovinos.png" width="300">
+<img src="Figuras/figura1_distribucion_ovinos.png" width="400">
 
 **Figura 2. Búfalos por subregión.** San Jorge tiene la mediana más alta (2191) y Montes de María la más baja (55).
 
-![Figura 2](figuras/figura2_bufalos_por_subregion.png)
+<img src="Figuras/figura2_bufalos_por_subregion.png" width="400">
 
 **Figura 3. Equinos y mulos.** Tienden a subir juntos, pero la relación es débil (correlación 0,43).
 
-![Figura 3](Figuras/figura3_equinos_mulos.png)
+<img src="Figuras/figura3_equinos_mulos.png" width="400">
 
 **Figura 4. Equinos en el tiempo.** Las subregiones no cambian igual: Montes de María es la más baja y estable, y Mojana la más variable.
 
-![Figura 4](Figuras/figura4_equinos_en_el_tiempo.png)
+<img src="Figuras/figura4_equinos_en_el_tiempo.png" width="400">
 
 **Figura 5. Correlaciones entre especies.** Las más altas son equinos con mulos (0,43) y equinos con asnos (0,42); solo búfalos tiene correlaciones negativas.
 
-![Figura 5](Figuras/figura5_correlaciones.png)
+<img src="Figuras/figura5_correlaciones.png" width="400">
 
 ## Cómo reproducir el análisis desde cero
 Se usó Python 3.14.7.
